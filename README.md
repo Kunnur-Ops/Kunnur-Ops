@@ -1,13 +1,13 @@
 [![MasterHead](https://storage.googleapis.com/gweb-cloudblog-publish/images/General-GC_Blog_header_2436x1200-v1.max-2500x2500.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mallikarjun Kunnur</h1>
-<h3 align="center">A passionate DevOps & Cloud Engineer from India</h3>
+
 <img align= "right" alt= "Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunnur-ops&label=Profile%20views&color=0e75b6&style=flat" alt="kunnur-ops" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Cloud Engineer**
+- 🔭 I’m currently working as a **DevOps & Cloud Engineer**
 
 - 🌱 I’m currently learning **CKA Certification **
 
