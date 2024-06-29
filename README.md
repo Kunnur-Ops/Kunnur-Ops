@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working as a **DevOps & Cloud Engineer**
 
-- 🌱 I’m currently learning **CKA Certification **
+- 🌱 I’m currently learning for the **CKA Certification **
 
 - 💬 Ask me about **Docker , Jenkins**
 
