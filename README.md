@@ -1,4 +1,4 @@
-[![MasterHead](https://storage.googleapis.com/gweb-cloudblog-publish/images/General-GC_Blog_header_2436x1200-v1.max-2500x2500.jpg)](https://rishavchanda.io)
+[![MasterHead](https://media.licdn.com/dms/image/D4E16AQE_y_aDAUIGpQ/profile-displaybackgroundimage-shrink_350_1400/0/1718198310096?e=1726099200&v=beta&t=4mJSJM5f7OPWeUrOL5-iWlC1gwWkervxj8WgMDtrk8E)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mallikarjun Kunnur</h1>
 
 <img align= "right" alt= "Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif ">
