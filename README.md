@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning for the **CKA Certification **
 
-- 💬 Ask me about **Docker , Jenkins**
+- 💬 Ask me about **Docker , Jenkins , & Kubernetes**
 
 - 📫 How to reach me **rkunnur@gmail.com**
 
