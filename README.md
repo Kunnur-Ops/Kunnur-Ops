@@ -26,7 +26,6 @@
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
-
 <div align="left">
   <img src="https://github.com/piyushsachdeva/piyushsachdeva/assets/40286378/8c9e2b9c-fd9f-48ed-af6e-ae9d347dd96e" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
@@ -78,6 +77,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
 </div>
+
+###
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunnur-ops&show_icons=true&locale=en&layout=compact" alt="kunnur-ops" /></p>
 
